@@ -1,0 +1,7 @@
+*.app/
+*.o
+*_bin
+build/
+DerivedData/
+*.swp
+.DS_Store
